@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = tsProtectorSettings;
+		cell = PSLinkCell;
+		detail = "tsProtectorSettingsListController";
+		icon = "tsProtector.png";
+		isController = 1;
+		label = "tsProtector 8+";
+	};
+}
