@@ -1,18 +1,13 @@
-Package: apt-key
-Version: 1.4.8-3
+Package: com.casp.inapp
+Version: 1.0~beta1a
 Architecture: iphoneos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 64
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: coreutils, libapt
-Conflicts: apt7-key (<<1:0)
-Replaces: apt (<< 1:0-1), apt7 (<< 0.7.20.2-4), apt7-key
-Filename: ./apt-key_1.4.8-3_iphoneos-arm.deb
-Size: 8830
-MD5sum: 0b321d43114eb0d55ed8505ae509c519
-SHA1: 4019ae2ee8b78759ac398d46c0748b971e930124
-SHA256: 7ecfce1aa5e86a243111fafaec1e29bd7723c0b83f3345061fc8460558cc877d
-Section: Packaging
-Priority: standard
-Description: repository encryption key management tool
-Name: APT (apt-key)
+Maintainer: Casp <email@com>
+Filename: /inAppPurchases1.0~beta1a.deb
+Size: 4080
+MD5sum: 2999bd923df35d23d06c95a64b8079d0
+SHA1: 9bc93a2057b47bb8d79d07bd2ae9cf21e2ea80d9
+SHA256: dfe0adf5983204f9f92308ccc28d5a7ea8abfbed3486aee3b17aab444d5d1b9c
+Section: Tweaks
+Description: Free In App P
+Author: CAsp (email.com)
+Name: InApp ios11
