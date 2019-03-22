@@ -1,8 +1,8 @@
-Origin: FsocietyRepo's Private Repo
-Label: FsocietyRepo's Repo
+Origin: Fsociety    
+Label: Fsociety's Repo
 Suite: stable
-Version: 1.0
+Version: 0.1
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: FsocietyRepo's Repo
+Description: Fsociety's Repo
